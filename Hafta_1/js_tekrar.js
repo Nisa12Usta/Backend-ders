@@ -82,3 +82,4 @@ class Kullanici{
 
 const kullanici1 = new Kullanici("Nisa" ,"1234567890" )
 kullanici1.bilgi_yaz()
+
